@@ -1,0 +1,123 @@
+{
+  "salaries": [
+    {
+      "id": "amsterdam|front-end|junior",
+      "role": "front-end",
+      "level": "junior",
+      "local": "amsterdam",
+      "salary": 3000.00
+    }, {
+      "id": "amsterdam|front-end|plenoo",
+      "role": "front-end",
+      "level": "pleno",
+      "local": "amsterdam",
+      "salary": 4500.00
+    }, {
+      "id": "amsterdam|front-end|senior",
+      "role": "front-end",
+      "level": "senior",
+      "local": "amsterdam",
+      "salary": 5500.00
+    }, {
+      "id": "amsterdam|back-end|junior",
+      "role": "back-end",
+      "level": "junior",
+      "local": "amsterdam",
+      "salary": 3000.00
+    }, {
+      "id": "amsterdam|back-end|plenoo",
+      "role": "back-end",
+      "level": "pleno",
+      "local": "amsterdam",
+      "salary": 4500.00
+    }, {
+      "id": "amsterdam|back-end|senior",
+      "role": "back-end",
+      "level": "senior",
+      "local": "amsterdam",
+      "salary": 5500.00
+    },
+
+
+    {
+      "id": "berlim|front-end|junior",
+      "role": "front-end",
+      "level": "junior",
+      "local": "berlim",
+      "salary": 3000.00
+    }, {
+      "id": "berlim|front-end|plenoo",
+      "role": "front-end",
+      "level": "pleno",
+      "local": "berlim",
+      "salary": 4500.00
+    }, {
+      "id": "berlim|front-end|senior",
+      "role": "front-end",
+      "level": "senior",
+      "local": "berlim",
+      "salary": 5500.00
+    }, {
+      "id": "berlim|back-end|junior",
+      "role": "back-end",
+      "level": "junior",
+      "local": "berlim",
+      "salary": 3000.00
+    }, {
+      "id": "berlim|back-end|plenoo",
+      "role": "back-end",
+      "level": "pleno",
+      "local": "berlim",
+      "salary": 4500.00
+    }, {
+      "id": "berlim|back-end|senior",
+      "role": "back-end",
+      "level": "senior",
+      "local": "berlim",
+      "salary": 5500.00
+    },
+
+
+
+
+    {
+      "id": "bruxelas|front-end|junior",
+      "role": "front-end",
+      "level": "junior",
+      "local": "bruxelas",
+      "salary": 3000.00
+    }, {
+      "id": "bruxelas|front-end|plenoo",
+      "role": "front-end",
+      "level": "pleno",
+      "local": "bruxelas",
+      "salary": 4500.00
+    }, {
+      "id": "bruxelas|front-end|senior",
+      "role": "front-end",
+      "level": "senior",
+      "local": "bruxelas",
+      "salary": 5500.00
+    }, {
+      "id": "bruxelas|back-end|junior",
+      "role": "back-end",
+      "level": "junior",
+      "local": "bruxelas",
+      "salary": 3000.00
+    }, {
+      "id": "bruxelas|back-end|plenoo",
+      "role": "back-end",
+      "level": "pleno",
+      "local": "bruxelas",
+      "salary": 4500.00
+    }, {
+      "id": "bruxelas|back-end|senior",
+      "role": "back-end",
+      "level": "senior",
+      "local": "bruxelas",
+      "salary": 5500.00
+    }
+
+
+  ]
+}
